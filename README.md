@@ -1,1 +1,1 @@
-Is the process done
+Is the process done: yes from local repo
